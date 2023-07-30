@@ -14,7 +14,7 @@ namespace _1._Sum_Matrix_Elements
 
             int result = 0;
 
-            int[,] matrix = new int[rows, 
+            int[,] matrix = new int[rows, cols];
 
             for (int row = 0; row < rows; row++)
             {
