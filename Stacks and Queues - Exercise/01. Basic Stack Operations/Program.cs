@@ -28,7 +28,7 @@ if (stack.Contains(x))
 }
 else
 {
-    Console.WriteLine(stack.Min();
+    Console.WriteLine(stack.Min());
 }
 
 
