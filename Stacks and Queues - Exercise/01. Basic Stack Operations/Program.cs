@@ -24,7 +24,7 @@ if(!stack.Any())
 
 if (stack.Contains(x))
 {
-    Console.WriteLine("true");
+    
 }
 else
 {
